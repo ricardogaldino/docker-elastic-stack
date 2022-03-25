@@ -1,2 +1,1 @@
-# docker-elastic-stack
-Docker: ELK (Elasticsearch, Logstash, and Kibana)
+# Docker: ELK (Elasticsearch, Logstash, and Kibana)
